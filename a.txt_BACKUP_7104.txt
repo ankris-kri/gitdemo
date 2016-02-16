@@ -1,7 +1,0 @@
-hi
-hi again
-<<<<<<< HEAD
-from local
-=======
-from github
->>>>>>> 13698a90df5d524c94e6cb841c44a4d26295e6b1
